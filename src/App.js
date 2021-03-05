@@ -22,7 +22,7 @@ class App extends Component {
         {id:1, title:'li tag1', desc:'내용1'},
         {id:2, title:'li tag2', desc:'내용2'},
         {id:3, title:'li tag3', desc:'내용3'},
-        {id:3, title:'li tag4', desc:'내용4'}
+        {id:4, title:'li tag4', desc:'내용4'}
       ]
     }
   }
