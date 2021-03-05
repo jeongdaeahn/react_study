@@ -13,10 +13,10 @@ class App extends Component {
 
   constructor(props){
     super(props);
-    this.max_content_id = 3;
+    this.max_content_id = 5;
     this.state = {
       mode:'welcome',
-      selected_content_id:2,
+      selected_content_id:5,
       welcome:{title:'welcome', desc:'Hello React!'},
       subject:{title:'Web', sub:'World Wide Web'},
       contents:[
