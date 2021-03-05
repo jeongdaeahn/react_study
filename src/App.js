@@ -9,7 +9,6 @@ import Subject from "./components/Subject";
 import Control from "./components/Control";
 
 class App extends Component {
-  
 
   constructor(props){
     super(props);
